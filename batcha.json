@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-24 15:30:21",
+    "generated_at": "2026-07-24 18:30:56",
     "batches": [
         {
             "batch_id": "6a3fb676ee971d62e6bd65fc",
@@ -131127,15 +131127,15 @@
         },
         {
             "batch_id": "660bc0019709e6d117248518",
-            "language": "English",
+            "language": "Hinglish",
             "exam": "SKILLS",
             "name": "Digital Marketing with AI Course",
             "byName": "DMWA_02_APR_24",
-            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/12133227-ca56-49ba-81b1-27f9f9fef42c.png",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cf34cad8-6a39-4b39-9c04-5ee129c97b52.png",
             "class": "Graduation",
-            "start_date": "2025-12-31T18:30:00.000Z",
+            "start_date": "2026-06-04T18:30:00.000Z",
             "end_date": "2027-12-31T18:29:59.000Z",
-            "amount": 20000
+            "amount": 0
         },
         {
             "batch_id": "69f71cac81b8c08fd473244c",
