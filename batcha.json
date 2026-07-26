@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-26 16:36:58",
+    "generated_at": "2026-07-26 16:37:53",
     "batches": [
         {
             "batch_id": "68c7e8287265c148c359e3dc",
@@ -115643,7 +115643,7 @@
             "class": "Graduation",
             "start_date": "2026-03-15T18:30:00.000Z",
             "end_date": "2027-10-30T18:29:59.000Z",
-            "amount": 9999
+            "amount": 0
         },
         {
             "batch_id": "6418067faae90d0018662939",
