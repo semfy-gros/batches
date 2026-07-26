@@ -1,6 +1,18 @@
 {
-    "generated_at": "2026-07-26 16:24:24",
+    "generated_at": "2026-07-26 16:24:39",
     "batches": [
+        {
+            "batch_id": "68c7e8287265c148c359e3dc",
+            "language": "Hindi",
+            "exam": "PW_ONLY_IAS",
+            "name": "UPSC 2027 Patna Hindi B20",
+            "byName": "GS Foundation Batch for UPSC Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4ef118a2-6203-4602-90b5-36e0f2d27528.png",
+            "class": "Graduation",
+            "start_date": "2025-09-21T18:30:00.000Z",
+            "end_date": "2028-09-30T18:29:59.000Z",
+            "amount": 0
+        },
         {
             "batch_id": "6a312065cc93416764a4ce45",
             "language": "Hindi",
@@ -209860,5 +209872,5 @@
             "amount": 0
         }
     ],
-    "total_batches": 15192
+    "total_batches": 15193
 }
