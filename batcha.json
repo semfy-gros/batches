@@ -1,6 +1,18 @@
 {
-    "generated_at": "2026-07-24 18:30:56",
+    "generated_at": "2026-07-26 16:11:55",
     "batches": [
+        {
+            "batch_id": "6826c2c5705f3430a9dc8a10",
+            "language": "Hindi",
+            "exam": "PW_ONLY_IAS",
+            "name": "Offline UPSC GS 2026 Hindi Lucknow B01",
+            "byName": "GS Foundation Batch for UPSC Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/87c99403-769f-4d53-95f8-6b73c65308ae.png",
+            "class": "Graduation",
+            "start_date": "2025-06-15T18:30:00.000Z",
+            "end_date": "2028-09-30T18:29:59.000Z",
+            "amount": 0
+        },
         {
             "batch_id": "6a3fb676ee971d62e6bd65fc",
             "language": "Hindi",
@@ -209812,5 +209824,5 @@
             "amount": 0
         }
     ],
-    "total_batches": 15188
+    "total_batches": 15189
 }
