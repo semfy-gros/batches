@@ -1,6 +1,18 @@
 {
-    "generated_at": "2026-07-26 16:15:00",
+    "generated_at": "2026-07-26 16:24:08",
     "batches": [
+        {
+            "batch_id": "6a0c249446a235f197cfa3c3",
+            "language": "Hindi",
+            "exam": "PW_ONLY_IAS",
+            "name": "UPSC 2027 Karol Bagh Hindi B03",
+            "byName": "GS Foundation Batch for UPSC Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/49dc57f5-5349-407d-bd0a-727f1d7008c7.png",
+            "class": "Graduation",
+            "start_date": "2026-05-24T18:30:00.000Z",
+            "end_date": "2029-09-30T18:29:59.000Z",
+            "amount": 0
+        },
         {
             "batch_id": "69280b5f1a9bb539f29370c2",
             "language": "Hindi",
@@ -209836,5 +209848,5 @@
             "amount": 0
         }
     ],
-    "total_batches": 15190
+    "total_batches": 15191
 }
