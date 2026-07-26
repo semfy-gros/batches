@@ -1,6 +1,18 @@
 {
-    "generated_at": "2026-07-26 16:11:55",
+    "generated_at": "2026-07-26 16:15:00",
     "batches": [
+        {
+            "batch_id": "69280b5f1a9bb539f29370c2",
+            "language": "Hindi",
+            "exam": "PW_ONLY_IAS",
+            "name": "UPSC 2027 Prayagraj Hindi B06",
+            "byName": "GS Foundation Batch for UPSC Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b76aa589-4af1-4df0-985f-20da134c60a2.png",
+            "class": "Graduation",
+            "start_date": "2026-01-04T18:30:00.000Z",
+            "end_date": "2028-09-30T18:29:59.000Z",
+            "amount": 0
+        },
         {
             "batch_id": "6826c2c5705f3430a9dc8a10",
             "language": "Hindi",
@@ -209824,5 +209836,5 @@
             "amount": 0
         }
     ],
-    "total_batches": 15189
+    "total_batches": 15190
 }
