@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-26 16:37:53",
+    "generated_at": "2026-07-27 13:17:47",
     "batches": [
         {
             "batch_id": "68c7e8287265c148c359e3dc",
@@ -139493,13 +139493,13 @@
             "batch_id": "6a156e6d6acdc5eb06068f8c",
             "language": "English",
             "exam": "Unigo",
-            "name": "Acadfly DHA Course Batch-6",
+            "name": "DHA Prep Batch - 6",
             "byName": "Acadfly DHA Course Batch-6",
-            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3ee0ae16-4422-49fb-8bd2-2f4a2f37ee92.png",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3626a832-7177-4d41-952f-e1a64fc17b32.png",
             "class": "Graduation",
             "start_date": "2026-05-25T18:30:00.000Z",
             "end_date": "2027-03-31T18:29:59.000Z",
-            "amount": 80000
+            "amount": 0
         },
         {
             "batch_id": "66cc269835c2690018ea4af5",
