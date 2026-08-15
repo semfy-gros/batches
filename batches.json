@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-15 18:50:00",
+    "generated_at": "2026-08-15 18:50:30",
     "batches": [
         {
             "batch_id": "65d862392b1da90018ad8f3b",
@@ -78845,13 +78845,13 @@
             "batch_id": "698ad35209494b495cfcc9c4",
             "language": "Hinglish",
             "exam": "IIT-JEE",
-            "name": "Prayas JEE 2027",
+            "name": "Prayas 2027",
             "byName": "For IIT-JEE Aspirants",
-            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/28d84a98-887d-47c2-914e-42d4e1177bf0.png",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6a95f5ca-dd0c-47a2-b208-02c695c0f037.png",
             "class": "12+",
-            "start_date": "2026-04-20T18:30:00.000Z",
+            "start_date": "2026-04-21T18:30:00.000Z",
             "end_date": "2027-06-30T18:29:59.000Z",
-            "amount": 0
+            "amount": 6000
         },
         {
             "batch_id": "6994351acb3c3eb967dd60f5",
