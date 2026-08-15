@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-13 14:32:32",
+    "generated_at": "2026-08-15 18:40:58",
     "batches": [
         {
             "batch_id": "65d862392b1da90018ad8f3b",
@@ -104661,9 +104661,9 @@
             "byName": "",
             "photo": "",
             "class": "8",
-            "start_date": "2026-04-19T18:30:00.000Z",
+            "start_date": "2026-08-16T18:30:00.000Z",
             "end_date": "2027-03-31T18:29:59.000Z",
-            "amount": 499
+            "amount": 41999
         },
         {
             "batch_id": "694647c6ee01211d0fb39235",
