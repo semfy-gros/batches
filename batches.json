@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-15 18:49:25",
+    "generated_at": "2026-08-15 18:50:00",
     "batches": [
         {
             "batch_id": "65d862392b1da90018ad8f3b",
@@ -78895,11 +78895,11 @@
             "exam": "IIT-JEE",
             "name": "Arjuna JEE 2.0 2027",
             "byName": "For IIT-JEE Aspirants",
-            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6167bde8-8401-49cb-aaa9-3d50fd71f5ce.png",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b79943dd-a36a-4c44-ad78-a6fd3d78a257.png",
             "class": "11",
-            "start_date": "2026-05-25T18:30:00.000Z",
-            "end_date": "2028-06-30T18:29:59.000Z",
-            "amount": 0
+            "start_date": "2026-05-31T18:30:00.000Z",
+            "end_date": "2028-06-28T18:29:59.000Z",
+            "amount": 5500
         },
         {
             "batch_id": "69919d47d4cb01a3fd3e0657",
