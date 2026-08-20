@@ -1,6 +1,18 @@
 {
-    "generated_at": "2026-08-15 18:50:30",
+    "generated_at": "2026-08-20 11:12:59",
     "batches": [
+        {
+            "batch_id": "6a6b47d291a9987114f109a1",
+            "language": "Hinglish",
+            "exam": "SCHOOL_PREPARATION",
+            "name": "Target 90 JKBOSE Class- 10th",
+            "byName": "Target 90 JKBOSE Class- 10th",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2cb8b4f7-9b73-4eeb-8953-3ff1c6de3e7f.png",
+            "class": "10",
+            "start_date": "2026-08-18T18:30:00.000Z",
+            "end_date": "2027-03-30T18:29:59.000Z",
+            "amount": 3299
+        },
         {
             "batch_id": "65d862392b1da90018ad8f3b",
             "language": "Hinglish",
@@ -182932,5 +182944,5 @@
             "amount": 0
         }
     ],
-    "total_batches": 12948
+    "total_batches": 12949
 }
