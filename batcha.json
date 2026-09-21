@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "69d7ad2d57b5beec5cc1eeb4",
+            "language": "Hinglish",
+            "exam": "NDA",
+            "name": "Defence D13-NF11E1 2026",
+            "byName": "Defence",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/bded4a58-0e88-49c6-9eb3-033db8de1626.png",
+            "class": "12",
+            "start_date": "2026-05-10T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a7c059963864b00d4373012",
             "language": "Bilingual",
             "exam": "SCHOOL PREPARATION",
