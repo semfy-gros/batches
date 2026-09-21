@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a8ead3f1388750e01363f34",
+            "language": "Hinglish",
+            "exam": "MBA",
+            "name": "Mission 100 days to CAT",
+            "byName": "Targeted batch for CAT 2026",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/46620492-8b31-498d-9dd6-4201cba9f602.jpg",
+            "class": "POST GRADUATION",
+            "start_date": "2026-08-30T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a34d7a1a9b26e5c066a1b7b",
             "language": "Hinglish",
             "exam": "NEET",
