@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a9950f5ae84ffe110456184",
+            "language": "Hinglish",
+            "exam": "UPSC",
+            "name": "UPSC 30 Foundation Free Series",
+            "byName": "Preparation Batch for UPSC Aspiranst",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed18c2c4-0bf0-4418-a62b-bce79c40bb98.png",
+            "class": "12+",
+            "start_date": "2026-09-06T18:30:00.000Z",
+            "end_date": "2026-12-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6aa3bcdc66af6be9a38bbedb",
             "language": "Hinglish",
             "exam": "SSC",
