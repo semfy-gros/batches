@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a82e3e7c0029a4e7fde984b",
+            "language": "Hindi",
+            "exam": "CUET UG",
+            "name": "PRAVESH CUET PHYSICS HINDI 2027",
+            "byName": "Targeted batch for CUET science 2027 students",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/254010f1-405c-4994-a591-93538bca28bf.png",
+            "class": "12+",
+            "start_date": "2026-08-30T18:30:00.000Z",
+            "end_date": "2027-07-15T18:29:59.000Z",
+            "amount": 300
+        },
+        {
             "batch_id": "6a82ea18aa9b00973304d240",
             "language": "Hindi",
             "exam": "CUET UG",
