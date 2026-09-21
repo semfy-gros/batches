@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a9abb5c120fd3d40688713f",
+            "language": "Hinglish",
+            "exam": "SCHOOL PREPARATION",
+            "name": "Samridhi Sharma - Class 8th (2027)",
+            "byName": "For Class 8th CBSE Students",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e1511093-9d65-4cc3-baae-184354067679.jpeg",
+            "class": "8",
+            "start_date": "2026-09-05T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "test_dummy_batch_99999",
             "name": "Test New Batch Added Safely",
             "language": "Hinglish",
