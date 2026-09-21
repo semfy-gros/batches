@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a953e26a2bf1b372be8f31f",
+            "language": "Hinglish",
+            "exam": "CLAT",
+            "name": "CLAT NEXUS PLUS 2027 BATCH",
+            "byName": "FOR CLAT & AILET 2028 BATCH",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a7117627-8ce1-44a6-8fbc-dda030474399.png",
+            "class": "12",
+            "start_date": "2026-09-03T18:30:00.000Z",
+            "end_date": "2026-10-22T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "69faf737ccad689f74c29cb3",
             "language": "Hinglish",
             "exam": "IIT JAM",
