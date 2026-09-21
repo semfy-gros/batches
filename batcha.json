@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "698aec9d9549b300a5e25d84",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Lakshya NEET 3.0 2027",
+            "byName": "",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fd2e34bf-5187-40a9-bee3-bab7b5bd2bd8.png",
+            "class": "12",
+            "start_date": "2026-08-09T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 3999
+        },
+        {
             "batch_id": "6779346f920e596fe7f0e247",
             "language": "Hinglish",
             "exam": "NEET",
@@ -13,6 +25,6 @@
             "amount": 3999
         }
     ],
-    "total_batches": 1,
-    "generated_at": "2026-09-21 14:08:44"
+    "total_batches": 2,
+    "generated_at": "2026-09-21 14:11:25"
 }
