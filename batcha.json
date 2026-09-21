@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a991c3c606751dd7212d235",
+            "language": "Hindi",
+            "exam": "UPSC",
+            "name": "Sambhav 2027 - Free UPSC series (Hindi)",
+            "byName": "Free Preparation Batch for UPSC Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32aa6956-75b6-4b56-a34a-5b5a0e32165a.png",
+            "class": "12+",
+            "start_date": "2026-09-06T18:30:00.000Z",
+            "end_date": "2027-05-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a953e26a2bf1b372be8f31f",
             "language": "Hinglish",
             "exam": "CLAT",
