@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a7c059963864b00d4373012",
+            "language": "Bilingual",
+            "exam": "SCHOOL PREPARATION",
+            "name": "Jharkhand Pratibha Khoj Pariksha 2026",
+            "byName": "Jharkhand Board",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a4934d3b-f7c6-4397-be53-7ebe29dfc84e.png",
+            "class": "9",
+            "start_date": "2026-09-11T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 11
+        },
+        {
             "batch_id": "6a97be0562861f56b053c138",
             "language": "Hinglish",
             "exam": "NEET",
