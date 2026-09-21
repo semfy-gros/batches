@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a9e5dce50d2911f53e3ec74",
+            "language": "Hinglish",
+            "exam": "SCHOOL PREPARATION",
+            "name": "Youtube Notes Class 12th Haryana Board",
+            "byName": "For Class 12th",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/baa8bc03-cfc0-438f-b1ab-1468eb57fd55.png",
+            "class": "12",
+            "start_date": "2026-09-08T18:30:00.000Z",
+            "end_date": "2027-04-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a97bc3e9469fac31cb0c638",
             "language": "Hinglish",
             "exam": "NEET",
