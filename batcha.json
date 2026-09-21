@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a82ea18aa9b00973304d240",
+            "language": "Hindi",
+            "exam": "CUET UG",
+            "name": "PRAVESH CUET GAT HINDI 2027",
+            "byName": "Targeted batch for CUET science 2027 students",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8699bb17-9c51-4e9f-814e-0e5ed43ed336.png",
+            "class": "12+",
+            "start_date": "2026-08-30T18:30:00.000Z",
+            "end_date": "2027-07-15T18:29:59.000Z",
+            "amount": 300
+        },
+        {
             "batch_id": "6a82e5b2eaa9d9214d921b76",
             "language": "Hindi",
             "exam": "CUET UG",
