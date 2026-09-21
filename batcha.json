@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a69b3baef3a6507fc05ef22",
+            "language": "Hinglish",
+            "exam": "CSIR NET",
+            "name": "Sankalp JRF Dec 2026: Physical Sciences",
+            "byName": "For CSIR NET Dec 2026 Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7fc21c16-5648-4559-a58f-cb2cc24eb164.png",
+            "class": "POST GRADUATION",
+            "start_date": "2026-08-02T18:30:00.000Z",
+            "end_date": "2026-12-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a88066d72b9fe934b9b476f",
             "language": "Hinglish",
             "exam": "CSIR NET",
