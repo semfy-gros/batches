@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a88286fc6b30885f2708ca1",
+            "language": "Hinglish",
+            "exam": "IIT-JEE",
+            "name": "Vidyapeeth 43-LJ101DA 2026",
+            "byName": "",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/4c5d0c01-0771-4f67-8524-799a8a63133b.png",
+            "class": "12",
+            "start_date": "2026-08-17T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a69b3baef3a6507fc05ef22",
             "language": "Hinglish",
             "exam": "CSIR NET",
