@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a9539baf2ed5504ab13d62e",
+            "language": "Hinglish",
+            "exam": "CLAT",
+            "name": "CLAT ZENITH 3.0 2028 BATCH",
+            "byName": "FOR CLAT & AILET 2028 BATCH",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bdc753c4-84e1-4237-b0e6-4be02b76535b.jpeg",
+            "class": "11",
+            "start_date": "2026-09-13T18:30:00.000Z",
+            "end_date": "2027-12-31T18:29:59.000Z",
+            "amount": 16499
+        },
+        {
             "batch_id": "69d7ad2d57b5beec5cc1eeb4",
             "language": "Hinglish",
             "exam": "NDA",
