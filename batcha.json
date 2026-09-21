@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a82e5b2eaa9d9214d921b76",
+            "language": "Hindi",
+            "exam": "CUET UG",
+            "name": "PRAVESH CUET अंग्रेज़ी 2027",
+            "byName": "Targeted batch for CUET science 2027 students",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e1547a7d-742c-43b5-968f-02304b9e2b45.png",
+            "class": "12+",
+            "start_date": "2026-08-30T18:30:00.000Z",
+            "end_date": "2027-07-15T18:29:59.000Z",
+            "amount": 300
+        },
+        {
             "batch_id": "6a7461f87c78e4fbe5d64df4",
             "language": "Hinglish",
             "exam": "UGC NET",
