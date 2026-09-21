@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "69faf737ccad689f74c29cb3",
+            "language": "Hinglish",
+            "exam": "IIT JAM",
+            "name": "Saakaar Mentorship Physics 2027",
+            "byName": "IIT JAM & CUET PG 2027 Mentorship",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/47a35822-cb37-4bc2-a2f0-115f430e590e.png",
+            "class": "Graduation",
+            "start_date": "2026-05-08T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "698d68e8cb23ebb3356537a7",
             "language": "Hinglish",
             "exam": "NEET",
