@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a96ca14c0c5bd08ec662881",
+            "language": "Hinglish",
+            "exam": "IIT-JEE",
+            "name": "Yemberzal J&K Board Series- 12th 2026",
+            "byName": "Board Revision Series",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/51352137-c274-4ebe-9569-49d0e5853ed5.png",
+            "class": "12",
+            "start_date": "2026-09-05T00:00:00.000Z",
+            "end_date": "2027-06-30T00:00:00.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a4e4883c699e005124b3216",
             "language": "Hinglish",
             "exam": "UGC_NET",
