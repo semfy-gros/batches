@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a7f050bc3dff144f60f60ca",
+            "language": "Hinglish",
+            "exam": "IIT-JEE",
+            "name": "11th JEE Ardhashatak (Gujarat)",
+            "byName": "Ardhashatak Program",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/f002d8af-f11d-4460-8732-383664ecfdb8.PNG",
+            "class": "11",
+            "start_date": "2026-08-14T00:00:00.000Z",
+            "end_date": "2026-12-31T00:00:00.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "64a2a6bc86a6280018cc61d4",
             "language": "Hinglish",
             "exam": "NEET",
