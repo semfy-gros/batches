@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6aa788497d58f96e483c175c",
+            "language": "Bilingual",
+            "exam": "SCHOOL PREPARATION",
+            "name": "PW Maharashtra Ganesh Mandali 2026",
+            "byName": "Targeted Batch for Students for Celebrating Ganeshotsav 2026",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7d3163ba-28c6-4154-b5de-ee581c926ea1.png",
+            "class": "10",
+            "start_date": "2026-09-13T18:30:00.000Z",
+            "end_date": "2026-12-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a9ab444fa6304399de18c78",
             "language": "Hinglish",
             "exam": "OLYMPIAD",
