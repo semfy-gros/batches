@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6aa11698b765b344735be04d",
+            "language": "Hinglish",
+            "exam": "",
+            "name": "PWNSAT 2026 Batch",
+            "byName": "",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4a68c9fb-1ff4-476e-8140-09143fb8625c.jpeg",
+            "class": "12+",
+            "start_date": "2026-09-08T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a82e3100d31d679d6d8a9d6",
             "language": "Hindi",
             "exam": "CUET UG",
