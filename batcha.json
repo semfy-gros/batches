@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a991eb7655af350918d41a7",
+            "language": "Hinglish",
+            "exam": "PRE FOUNDATION",
+            "name": "Half Yearly Marathon Class 7",
+            "byName": "School Preparation",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d60ec4e0-1e05-4bfa-98b1-17496c9752e6.png",
+            "class": "7",
+            "start_date": "2026-09-06T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a87fc87cc29bca50ff04be7",
             "language": "Hinglish",
             "exam": "SCHOOL PREPARATION",
