@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a8d5e497d834489605ad06d",
+            "language": "Hinglish",
+            "exam": "CA",
+            "name": "CA Foundation Sampurna 3.0 Jan 2027",
+            "byName": "CA Foundation",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/294359ca-7276-4757-b74b-d7b2cd08e9b2.png",
+            "class": "12+",
+            "start_date": "2026-09-20T18:30:00.000Z",
+            "end_date": "2027-01-31T18:29:59.000Z",
+            "amount": 3499
+        },
+        {
             "batch_id": "6a96ca14c0c5bd08ec662881",
             "language": "Hinglish",
             "exam": "IIT-JEE",
