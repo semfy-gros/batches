@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a835dc98cc87eb47038293d",
+            "language": "English",
+            "exam": "",
+            "name": "PS MIP (Pro) - Offline Test + Real Test Dropper NEET",
+            "byName": "",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ff5970bf-48c2-4b7a-9cbd-fc77d82ea5ca.png",
+            "class": "12+",
+            "start_date": "2026-08-20T18:30:00.000Z",
+            "end_date": "2027-06-01T18:29:59.000Z",
+            "amount": 8499
+        },
+        {
             "batch_id": "6a9950f5ae84ffe110456184",
             "language": "Hinglish",
             "exam": "UPSC",
