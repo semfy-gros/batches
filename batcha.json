@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a8447af1138d95bfc22c751",
+            "language": "Hinglish",
+            "exam": "SSC",
+            "name": "Railway Exams Infinite Practice Batch",
+            "byName": "Infinite Practice Batch",
+            "photo": "",
+            "class": "12+",
+            "start_date": "2026-08-23T18:30:00.000Z",
+            "end_date": "2028-12-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a9921bebc344da6a2de15e5",
             "language": "Hinglish",
             "exam": "PRE FOUNDATION",
