@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a739a3c8130e967eb0239b8",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Pathshala YN31MD 2026",
+            "byName": "Target for NEET 2027",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/58d29571-aa87-4c18-9726-96c805f1e429.png",
+            "class": "12+",
+            "start_date": "2026-08-09T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a951dd841bba0ffa78aa220",
             "language": "Hinglish",
             "exam": "SCHOOL PREPARATION",
