@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a87f6bd3d7112af7724e7f6",
+            "language": "Hinglish",
+            "exam": "SCHOOL PREPARATION",
+            "name": "Ritik Mishra - Class 8th YT (2027)",
+            "byName": "For Class 8 CBSE Students",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dbcc92cb-1cf5-440a-89e6-16eed6b24529.jpeg",
+            "class": "8",
+            "start_date": "2026-08-23T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a991ffb3130346c10ba0a0e",
             "language": "Hinglish",
             "exam": "PRE FOUNDATION",
