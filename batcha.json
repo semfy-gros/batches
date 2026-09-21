@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a7f050f50275344c62ed788",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "11th NEET Ardhashatak (Delhi+HR)",
+            "byName": "Ardhashatak Program",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/c9e744b9-d6c9-4758-bb8e-0a5141afb497.PNG",
+            "class": "11",
+            "start_date": "2026-08-14T00:00:00.000Z",
+            "end_date": "2026-12-31T00:00:00.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a9539baf2ed5504ab13d62e",
             "language": "Hinglish",
             "exam": "CLAT",
