@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a87fc87cc29bca50ff04be7",
+            "language": "Hinglish",
+            "exam": "SCHOOL PREPARATION",
+            "name": "Class 9th ICSE Mid-Term Marathon",
+            "byName": "For Class 9th ICSE Students",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0e7a3950-6a38-41d8-b3d0-1b897f739621.png",
+            "class": "9",
+            "start_date": "2026-08-26T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a8d3dead36170f6fced1713",
             "language": "Hindi",
             "exam": "NEET",
