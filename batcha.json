@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a7ef3147249a37068116b31",
+            "language": "Hinglish",
+            "exam": "CA",
+            "name": "CA Foundation Sampurna Fastrack Jan 2027",
+            "byName": "CA Foundation",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fbc59e21-18db-4b63-8ec6-b5a102a00488.png",
+            "class": "GRADUATION",
+            "start_date": "2026-10-04T18:30:00.000Z",
+            "end_date": "2027-01-31T18:29:59.000Z",
+            "amount": 2500
+        },
+        {
             "batch_id": "6a835dc98cc87eb47038293d",
             "language": "English",
             "exam": "",
