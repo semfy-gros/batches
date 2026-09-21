@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a88066d72b9fe934b9b476f",
+            "language": "Hinglish",
+            "exam": "CSIR NET",
+            "name": "Tejas JRF Dec 2026: General Aptitude",
+            "byName": "For CSIR NET Dec 2026 Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8d061d1f-ab89-4a58-b324-1da4e84ef92e.png",
+            "class": "POST GRADUATION",
+            "start_date": "2026-08-25T18:30:00.000Z",
+            "end_date": "2026-12-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a87f6bd3d7112af7724e7f6",
             "language": "Hinglish",
             "exam": "SCHOOL PREPARATION",
