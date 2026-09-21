@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "698d68e8cb23ebb3356537a7",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 30-AN101MA 2026",
+            "byName": "Target for NEET 2028",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/6f7cd749-02bb-49fb-8dec-ba5abb836fa0.PNG",
+            "class": "11",
+            "start_date": "2026-03-15T18:30:00.000Z",
+            "end_date": "2028-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a95187394dd4940dbda3cc8",
             "language": "Hinglish",
             "exam": "SCHOOL PREPARATION",
