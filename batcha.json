@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a9ab444fa6304399de18c78",
+            "language": "Hinglish",
+            "exam": "OLYMPIAD",
+            "name": "RMO Practice Batch 2026",
+            "byName": "Targeted batch for RMO Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/75e5a6d7-be69-4e9c-95c7-afedefd9bb3e.png",
+            "class": "12",
+            "start_date": "2026-09-05T18:30:00.000Z",
+            "end_date": "2026-11-15T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a991eb7655af350918d41a7",
             "language": "Hinglish",
             "exam": "PRE FOUNDATION",
