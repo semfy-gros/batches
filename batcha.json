@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a991ffb3130346c10ba0a0e",
+            "language": "Hinglish",
+            "exam": "PRE FOUNDATION",
+            "name": "Half Yearly Marathon Class 8",
+            "byName": "School Preparation",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d99bb616-8d39-4d1b-b0d5-91916151298e.png",
+            "class": "8",
+            "start_date": "2026-09-06T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a9abb5c120fd3d40688713f",
             "language": "Hinglish",
             "exam": "SCHOOL PREPARATION",
