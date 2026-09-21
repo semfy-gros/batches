@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a9921bebc344da6a2de15e5",
+            "language": "Hinglish",
+            "exam": "PRE FOUNDATION",
+            "name": "Half Yearly Marathon (Class 6th ,7th & 8th) ICSE",
+            "byName": "School Preparation",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bfec06b7-79de-4c5e-a0f8-deec2a55f6d4.png",
+            "class": "8",
+            "start_date": "2026-09-06T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a745dc25ff824b1669ed400",
             "language": "Hinglish",
             "exam": "UGC NET",
