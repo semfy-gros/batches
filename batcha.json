@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6aa3bcdc66af6be9a38bbedb",
+            "language": "Hinglish",
+            "exam": "SSC",
+            "name": "SSC CGL 2026 Free All India Test Series (AITS)",
+            "byName": "The test will be based on the latest SSC CGL exam pattern and syllabus.",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed104ed4-1de3-4ace-ab0b-575c02d0497d.png",
+            "class": "UNDER GRADUATION",
+            "start_date": "2026-09-12T18:30:00.000Z",
+            "end_date": "2027-03-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a991c3c606751dd7212d235",
             "language": "Hindi",
             "exam": "UPSC",
