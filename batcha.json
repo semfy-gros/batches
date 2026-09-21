@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a745dc25ff824b1669ed400",
+            "language": "Hinglish",
+            "exam": "UGC NET",
+            "name": "Mission JRF 2.0 Dec 2026: Education + Paper 1",
+            "byName": "Targeted Batch for UGC NET Dec 2026",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56f3dee5-7c9d-483a-b84a-f4aa9e203ba4.png",
+            "class": "POST GRADUATION",
+            "start_date": "2026-08-25T18:30:00.000Z",
+            "end_date": "2027-01-31T18:29:59.000Z",
+            "amount": 5299
+        },
+        {
             "batch_id": "6a8ead3f1388750e01363f34",
             "language": "Hinglish",
             "exam": "MBA",
