@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a34d7a1a9b26e5c066a1b7b",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 54-YN401MA 2026",
+            "byName": "Target for NEET 2027",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/37ba7780-b516-4b5c-b2e6-58773103b0b3.PNG",
+            "class": "12+",
+            "start_date": "2026-06-28T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a635c544f0e0435b920eac6",
             "language": "Hinglish",
             "exam": "NEET",
