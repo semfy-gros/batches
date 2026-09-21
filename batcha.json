@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a4e4883c699e005124b3216",
+            "language": "Hinglish",
+            "exam": "UGC_NET",
+            "name": "प्रतिज्ञा JRF DEC 2026: Sociology",
+            "byName": "Student Targeted Batch for UGC NET Dec 2026 Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/234c5b9e-a02c-47d6-b5b4-826bddfc5046.png",
+            "class": "POST GRADUATION",
+            "start_date": "2026-07-09T18:30:00.000Z",
+            "end_date": "2027-01-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6aa788497d58f96e483c175c",
             "language": "Bilingual",
             "exam": "SCHOOL PREPARATION",
