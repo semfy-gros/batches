@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "64a2a6bc86a6280018cc61d4",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 21-YN421MA",
+            "byName": "",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/cdd6f124-7e4b-418a-870d-564e93f29562.jpg",
+            "class": "12+",
+            "start_date": "2023-07-02T18:30:00.000Z",
+            "end_date": "2024-07-03T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a88286fc6b30885f2708ca1",
             "language": "Hinglish",
             "exam": "IIT-JEE",
