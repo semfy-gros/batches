@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a97bc3e9469fac31cb0c638",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "NCERT Line by Line 2027",
+            "byName": "For NEET Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6a23d73f-63f3-4b19-a153-5f340ddc3a79.png",
+            "class": "11",
+            "start_date": "2026-09-21T18:30:00.000Z",
+            "end_date": "2030-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a8447af1138d95bfc22c751",
             "language": "Hinglish",
             "exam": "SSC",
