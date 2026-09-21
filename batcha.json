@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a61d6bf6175e7da91c221f3",
+            "language": "Hinglish",
+            "exam": "CA OFFLINE",
+            "name": "LXMNG-CAF-JAN27-B5",
+            "byName": "Targeted Batch for Superclass Students",
+            "photo": "",
+            "class": "12",
+            "start_date": "2026-07-26T18:30:00.000Z",
+            "end_date": "2027-04-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a7f050bc3dff144f60f60ca",
             "language": "Hinglish",
             "exam": "IIT-JEE",
