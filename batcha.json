@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a97be0562861f56b053c138",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Complete Botany by Akanksha Ma’am",
+            "byName": "For NEET Aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/43d413c2-b377-4132-8f23-331a53d3fada.png",
+            "class": "11",
+            "start_date": "2026-09-06T18:30:00.000Z",
+            "end_date": "2030-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a8d5e497d834489605ad06d",
             "language": "Hinglish",
             "exam": "CA",
