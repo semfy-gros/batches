@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a8d3dead36170f6fced1713",
+            "language": "Hindi",
+            "exam": "NEET",
+            "name": "NEET प्रश्नमंथन Hindi 2027",
+            "byName": "for neet aspirants",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fe37d6b9-ab13-4ee2-9ab0-d5470e0a3d4e.jpeg",
+            "class": "12",
+            "start_date": "2026-09-03T18:30:00.000Z",
+            "end_date": "2027-07-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a7ef3147249a37068116b31",
             "language": "Hinglish",
             "exam": "CA",
