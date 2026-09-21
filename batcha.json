@@ -1,6 +1,18 @@
 {
     "batches": [
         {
+            "batch_id": "6a951dd841bba0ffa78aa220",
+            "language": "Hinglish",
+            "exam": "SCHOOL PREPARATION",
+            "name": "Class 12th Science Half Yearly Marathon",
+            "byName": "For Class 12th CBSE Students",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/02d8dc91-5054-4270-9bab-b999056fa780.png",
+            "class": "12",
+            "start_date": "2026-09-01T18:30:00.000Z",
+            "end_date": "2027-03-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
             "batch_id": "6a9e5dce50d2911f53e3ec74",
             "language": "Hinglish",
             "exam": "SCHOOL PREPARATION",
