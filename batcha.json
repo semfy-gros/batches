@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-09 22:18:52",
+    "generated_at": "2026-11-10 11:59:04",
     "batches": [
         {
             "batch_id": "65d862392b1da90018ad8f3b",
@@ -222672,6 +222672,150 @@
             "start_date": "2026-11-22T18:30:00.000Z",
             "end_date": "2027-05-31T18:29:59.000Z",
             "amount": 8499
+        },
+        {
+            "batch_id": "67db6d6df062f5c9f2d014d3",
+            "language": "Hinglish",
+            "exam": "FOUNDATION",
+            "name": "Vidyapeeth 40-NF101WI 2025",
+            "byName": "Class 9th",
+            "photo": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d15358f3-0752-48fc-af9b-095d16c90f5f.png",
+            "class": "9",
+            "start_date": "2025-04-05T18:30:00.000Z",
+            "end_date": "2026-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "644ac112c8de6400183e8150",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 26-YN301MA",
+            "byName": "",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/46988b77-ca91-40dd-be98-64a75c327f57.jpg",
+            "class": "12+",
+            "start_date": "2023-05-25T18:30:00.000Z",
+            "end_date": "2024-07-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "6a7b4f89d31c4d11aa6bd346",
+            "language": "Hinglish",
+            "exam": "NDA",
+            "name": "Defence D53-NS11M2 2026",
+            "byName": "Defence",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/c2f9283d-326d-486c-bae0-1860ce32324b.png",
+            "class": "",
+            "start_date": "2026-09-15T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "698eaab8762983d63cc7770e",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 51-AN181MA 2026",
+            "byName": "Target for NEET 2028",
+            "photo": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9b398c02-7183-4af5-bd4a-bab024986c6d.PNG",
+            "class": "11",
+            "start_date": "2026-03-22T18:30:00.000Z",
+            "end_date": "2028-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "6a918c014e0dbd1be3c3bc74",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Pathshala YN21PM 2026",
+            "byName": "Dropper NEET",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/092f5c44-f2b1-46d5-9e84-231f9c0a5d1e.png",
+            "class": "12+",
+            "start_date": "2026-08-29T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "67c02ac4cb13ccf094878270",
+            "language": "English",
+            "exam": "SCHOOL PREPARATION",
+            "name": "English by Cambridge 1-Demo Class 8",
+            "byName": "English by Cambridge Live Class (https://www.curiousjr.com)",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f77c1eb-72a1-49cb-bb31-8e5c5fefc1e2.png",
+            "class": "7",
+            "start_date": "2025-04-18T18:30:00.000Z",
+            "end_date": "2025-04-19T18:29:59.000Z",
+            "amount": 200
+        },
+        {
+            "batch_id": "69974c32894b9c2ba7b3e80f",
+            "language": "Hinglish",
+            "exam": "IIT-JEE",
+            "name": "Vidyapeeth 59-PJ201MA 2026",
+            "byName": "Target for JEE Mains/ Advance 2027",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/8956d079-1607-4586-93c6-38c0befa89f7.PNG",
+            "class": "12+",
+            "start_date": "2026-04-24T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "698d7e5bbd7facf48218a260",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 34-AN101EA 2026",
+            "byName": "Target for NEET 2028",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/979cb18c-5e1b-4f62-a530-5dd0e3aa06b7.PNG",
+            "class": "11",
+            "start_date": "2026-03-29T18:30:00.000Z",
+            "end_date": "2028-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "6ad0aa36e9c7fed9c30309eb",
+            "language": "Hinglish",
+            "exam": "FOUNDATION",
+            "name": "JKBOSE Board Booster - Class 10th",
+            "byName": "Board Examination",
+            "photo": "https://static.pw.live/5eb393ee95fab7468a79d189/0620b49b-d9ce-4d78-9265-98a3b16b4bc9.png",
+            "class": "10",
+            "start_date": "2026-10-14T18:30:00.000Z",
+            "end_date": "2027-06-30T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "669b48832be3d50018d87c63",
+            "language": "Bilingual",
+            "exam": "NEET",
+            "name": "Vidyapeeth 54-YN301T2 2024",
+            "byName": "Target for NEET 2025",
+            "photo": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/37cf7614-4f0d-47ea-a5df-b66440a95fa9.png",
+            "class": "12+",
+            "start_date": "2024-07-21T18:30:00.000Z",
+            "end_date": "2025-05-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "669cefd421ebcf0018e572cd",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 44-AN301T2 2024",
+            "byName": "Target for NEET 2026",
+            "photo": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/099cecc8-a0ba-452d-a2aa-33f1635139ba.png",
+            "class": "11",
+            "start_date": "2024-07-21T18:30:00.000Z",
+            "end_date": "2026-05-31T18:29:59.000Z",
+            "amount": 0
+        },
+        {
+            "batch_id": "647ef94b5c832e001815f3b7",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "name": "Vidyapeeth 15-AN401EA",
+            "byName": "",
+            "photo": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0ef3001c-818e-4228-8de9-ffeab0156140.jpeg",
+            "class": "11",
+            "start_date": "2023-06-29T18:30:00.000Z",
+            "end_date": "2025-06-30T18:29:59.000Z",
+            "amount": 0
         }
     ],
     "vidyapeeth_batches": [
